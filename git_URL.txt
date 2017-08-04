@@ -1,0 +1,4 @@
+https://github.com/jflopez1988/DB_AGENDAPHP
+
+//Comentarios
+En algunas maquinas funciona, en otras da problema con la comunicacion con el servidor.
