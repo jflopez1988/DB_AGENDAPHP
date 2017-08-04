@@ -1,0 +1,15 @@
+Adjunto lo solicitado, por favor primero correar el archivo en la url donde se encuentra el servidor apahce
+
+DB/server/create_user.php
+
+los usuarios creados son :
+
+usuario: user1@dominio.com
+
+pass: clave1
+
+usuario: user2@dominio.com
+
+pass: clave2
+
+Saludos
